@@ -19,7 +19,7 @@
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://github.com/ianian-dot/ianian-dot/assets/59313290/aab73ff7-e4c7-4760-a5da-2cc4cdae423d)
+![R](https://img.shields.io/github/r-package/v/:user/:repo)
 ![SQL](https://github.com/ianian-dot/ianian-dot/assets/59313290/5499ab13-58be-46c0-9e07-222c830898b9)
 
 <!---
