@@ -35,7 +35,12 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
 [<img align="left" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/jojorabbit1)
 
-
+## Examples of projects
+- [FPL Data Analysis and Insights](https://www.kaggle.com/code/ianpetrustan/football-fpl-project-analysis-and-visualisations)
+- [FPL Data Predictions](https://www.kaggle.com/code/ianpetrustan/fpl-points-predictions-h2o-models?scriptVersionId=158303961)
+- [NLP with traditional ML methods](https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods)
+- [NLP with neural networks](https://www.kaggle.com/code/ianpetrustan/predicting-fake-news-via-nlp-basic-nn-rnn-lstm)
+- [NLP via finetuning pretrained models](https://www.kaggle.com/code/ianpetrustan/analysis-clean-fine-tune-roberta-model)
 
 <!---
 ianian-dot/ianian-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
