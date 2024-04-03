@@ -5,7 +5,7 @@
 <br>
 
 - 👀 broad areas of interest: data science, economics, statistics, behavioural psychology
-- 
+- :movie_camera: lower level areas of interests: movies (a24, coen brothers, ari aster...), indie music (the strokes, 1975, unknown mortal ochestra, yo la tengo...), sleep data, football (liverpool fan) 
 - 🌱 I’m reading an MSc in Data Science in UCL, after completing a BSc in Statistics and Economics in the same uni
 - 💞️ I’m looking to collaborate on any DS projects!
 - 📫 How to reach me : ian.ptn@gmail.com
