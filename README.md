@@ -34,11 +34,16 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
 <br>
 
+## Some academic projects
+- [MSc Data Science Final Project: Yellow Cards in Football Data](https://github.com/ianian-dot/MSc-Data-Science-Football-Project)
+- [Info Retrieval and Data Mining](https://github.com/ianian-dot/Information-Retrieval-)
+- [Experimental Design and Factorial Analysis on Running Data](https://github.com/ianian-dot/Running-effects-Music-and-Morning)
+
 ## Some projects at 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
 [<img align="left" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/jojorabbit1)
 
-## Examples of projects
+## Some other personal projects
 - [FPL Data Analysis and Insights](https://www.kaggle.com/code/ianpetrustan/football-fpl-project-analysis-and-visualisations)
 - [FPL Data Predictions](https://www.kaggle.com/code/ianpetrustan/fpl-points-predictions-h2o-models?scriptVersionId=158303961)
 - [NLP with traditional ML methods](https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods)
