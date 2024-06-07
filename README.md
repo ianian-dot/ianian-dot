@@ -49,9 +49,10 @@
 
 
 ## Some projects at 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
+[![Kaggle (153 forks](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
 [<img align="left" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/jojorabbit1)
 
+- 
 
 <!---
 ianian-dot/ianian-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
