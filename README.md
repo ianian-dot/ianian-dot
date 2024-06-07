@@ -52,7 +52,11 @@
 [![Kaggle (153 forks](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
 [<img align="left" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/jojorabbit1)
 
-- 
+### Kaggle (153+ forks)
+- [Linear regression (ridge, lasso) to model GDP using Countries of the World Dataset](https://www.kaggle.com/code/ianpetrustan/modelling-gdp-via-regression-methods#Model-1:-Full-linear-model-(un-regularised))
+- [Breast Cancer classification (logistic, support vector methods)](https://www.kaggle.com/code/ianpetrustan/analysis-and-classification-on-breast-cancer-data)
+- [Time series analysis on temperatures (SARIMA)](https://www.kaggle.com/code/ianpetrustan/temperature-time-series-sarima-arima-arch)
+
 
 <!---
 ianian-dot/ianian-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
