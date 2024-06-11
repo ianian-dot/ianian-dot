@@ -57,6 +57,8 @@
 - [Breast Cancer classification (logistic, support vector methods)](https://www.kaggle.com/code/ianpetrustan/analysis-and-classification-on-breast-cancer-data)
 - [Time series analysis on temperatures (SARIMA)](https://www.kaggle.com/code/ianpetrustan/temperature-time-series-sarima-arima-arch)
 
+### RPubs 
+- [Exploring the Poisson Distribution](https://rpubs.com/jojorabbit1/1195564)
 
 <!---
 ianian-dot/ianian-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
