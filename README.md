@@ -41,6 +41,7 @@
 
 ## Some personal projects
 - [Investigating my own sleep data](https://github.com/ianian-dot/personal-sleep-data)
+- [Scraping and analysing A24 movies from RT](https://github.com/ianian-dot/scraping-and-analysing-A24-movies/)
 - [FPL Data Analysis and Insights](https://www.kaggle.com/code/ianpetrustan/football-fpl-project-analysis-and-visualisations)
 - [FPL Data Predictions](https://www.kaggle.com/code/ianpetrustan/fpl-points-predictions-h2o-models?scriptVersionId=158303961)
 - [NLP with traditional ML methods](https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods)
