@@ -59,7 +59,9 @@
 - [Time series analysis on temperatures (SARIMA)](https://www.kaggle.com/code/ianpetrustan/temperature-time-series-sarima-arima-arch)
 
 ### RPubs 
+- [Bradley Terry and Bayesian Modelling on EPL data](https://rpubs.com/jojorabbit1/1229766)
 - [Exploring the Poisson Distribution](https://rpubs.com/jojorabbit1/1195564)
+
 
 ### Others
 - [Mouse Mover - Stay Awake](https://github.com/ianian-dot/Stay-Awake-2/tree/master)
