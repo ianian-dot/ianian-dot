@@ -40,6 +40,7 @@
 - [Experimental Design and Factorial Analysis on Running Data](https://github.com/ianian-dot/Running-effects-Music-and-Morning)
 
 ## Some personal projects
+- [More recent and larger scale sleep data from AutoSleep](https://github.com/ianian-dot/AutoSleepData)
 - [Investigating my own sleep data](https://github.com/ianian-dot/personal-sleep-data)
 - [Scraping and analysing A24 movies from RT](https://github.com/ianian-dot/scraping-and-analysing-A24-movies/)
 - [FPL Data Analysis and Insights](https://www.kaggle.com/code/ianpetrustan/football-fpl-project-analysis-and-visualisations)
