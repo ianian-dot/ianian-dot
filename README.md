@@ -49,6 +49,9 @@
 - [NLP with neural networks](https://www.kaggle.com/code/ianpetrustan/predicting-fake-news-via-nlp-basic-nn-rnn-lstm)
 - [NLP via finetuning pretrained models](https://www.kaggle.com/code/ianpetrustan/analysis-clean-fine-tune-roberta-model)
 
+## Other projects
+- [Mouse Mover - Stay Awake](https://github.com/ianian-dot/Stay-Awake-2/tree/master)
+- [More Ways to Stay Awake](https://github.com/ianian-dot/MoreWaysToStayAwake/)
 
 ## Some projects at 
 [![Kaggle (153 forks](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
@@ -64,8 +67,6 @@
 - [Exploring the Poisson Distribution](https://rpubs.com/jojorabbit1/1195564)
 
 
-### Others
-- [Mouse Mover - Stay Awake](https://github.com/ianian-dot/Stay-Awake-2/tree/master)
 
 <!---
 ianian-dot/ianian-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
