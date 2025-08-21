@@ -48,6 +48,7 @@
 - [NLP with traditional ML methods](https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods)
 - [NLP with neural networks](https://www.kaggle.com/code/ianpetrustan/predicting-fake-news-via-nlp-basic-nn-rnn-lstm)
 - [NLP via finetuning pretrained models](https://www.kaggle.com/code/ianpetrustan/analysis-clean-fine-tune-roberta-model)
+- [Analysing and predicting song preferences on Spotipy](https://github.com/ianian-dot/spotify-spotipy-data-science)
 
 ## Other projects
 - [Mouse Mover - Stay Awake](https://github.com/ianian-dot/Stay-Awake-2/tree/master)
