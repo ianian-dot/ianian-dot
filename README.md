@@ -46,7 +46,7 @@
 - [FPL Data Analysis and Insights](https://www.kaggle.com/code/ianpetrustan/football-fpl-project-analysis-and-visualisations)
 - [FPL Data Predictions](https://www.kaggle.com/code/ianpetrustan/fpl-points-predictions-h2o-models?scriptVersionId=158303961)
 - [NLP with traditional ML methods](https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods)
-- [NLP with neural networks](https://www.kaggle.com/code/ianpetrustan/predicting-fake-news-via-nlp-basic-nn-rnn-lstm)
+- [NLP with neural networks: 20 upvotes, 45 copy-and-edits](https://www.kaggle.com/code/ianpetrustan/predicting-fake-news-via-nlp-basic-nn-rnn-lstm)
 - [NLP via finetuning pretrained models](https://www.kaggle.com/code/ianpetrustan/analysis-clean-fine-tune-roberta-model)
 - [Analysing and predicting song preferences on Spotipy](https://github.com/ianian-dot/spotify-spotipy-data-science)
 
