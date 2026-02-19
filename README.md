@@ -4,6 +4,7 @@
 
 <br>
 
+
 - 👀 broad areas of interest: data science, economics, statistics, behavioural psychology
 - :movie_camera: lower level areas of interests: movies (a24, coen brothers, ari aster...), indie music (the strokes, 1975, unknown mortal ochestra, yo la tengo...), sleep data, football (liverpool fan) 
 - :school_satchel: academic background: BSc Economics and Statistics, MSc Data Science
@@ -33,6 +34,10 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
 <br>
+
+## Recent projects 
+- [Data Engineering: cost of living around the world](https://github.com/ianian-dot/cost-of-living-data-project)
+- [End to end MIMIC III healthcare data: ETL and modelling](https://github.com/ianian-dot/mimic-3-etl)
 
 ## Some academic projects
 - [MSc Data Science Final Project: Yellow Cards in Football Data](https://github.com/ianian-dot/MSc-Data-Science-Football-Project)
