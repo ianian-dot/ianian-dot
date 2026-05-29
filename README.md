@@ -1,80 +1,220 @@
-<h1 align="center"><b>Hello! I am Ian Petrus Tan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hello! I'm Ian Petrus Tan 👋
 
-<picture> Me in the Netherlands <img align="right" src="https://github.com/ianian-dot/ianian-dot/blob/main/facebook_ian_dp.jpg" width = 250px></picture>
+<img align="right" src="https://github.com/ianian-dot/ianian-dot/blob/main/facebook_ian_dp.jpg" width="250">
 
-<br>
+## About Me
 
+Data Scientist / Data Analyst with experience across healthcare, sports analytics, risk analytics, and data engineering.
 
-- 👀 broad areas of interest: data science, economics, statistics, behavioural psychology
-- :movie_camera: lower level areas of interests: movies (a24, coen brothers, ari aster...), indie music (the strokes, 1975, unknown mortal ochestra, yo la tengo...), sleep data, football (liverpool fan) 
-- :school_satchel: academic background: BSc Economics and Statistics, MSc Data Science
-- 💞️ I’m looking to collaborate on any DS projects!
-- 📫 How to reach me : ian.ptn@gmail.com
+My work combines:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+* Data engineering and ETL pipelines
+* Statistical modelling and forecasting
+* Machine learning and experimentation
+* Dashboarding and business intelligence
+* Interactive data applications
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+I enjoy building end-to-end analytics solutions, from data collection and engineering through to modelling, visualisation, and deployment.
 
-<p align="center">
+### Interests
 
-## Languages
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+* 📊 Data Science & Analytics
+* 📈 Statistics & Forecasting
+* 🏥 Healthcare Analytics
+* ⚽ Sports Analytics
+* 💡 Economics & Behavioural Science
 
-## Platforms/software
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+### Education
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
-<br>
+* MSc Data Science UCL
+* BSc Economics & Statistics UCL
 
-## Recent projects 
-- [Data Engineering: cost of living around the world](https://github.com/ianian-dot/cost-of-living-data-project)
-- [End to end MIMIC III healthcare data: ETL and modelling](https://github.com/ianian-dot/mimic-3-etl)
+### Contact
 
-## Some academic projects
-- [MSc Data Science Final Project: Yellow Cards in Football Data](https://github.com/ianian-dot/MSc-Data-Science-Football-Project)
-- [Info Retrieval and Data Mining](https://github.com/ianian-dot/Information-Retrieval-)
-- [Experimental Design and Factorial Analysis on Running Data](https://github.com/ianian-dot/Running-effects-Music-and-Morning)
+📧 [ian.ptn@gmail.com](mailto:ian.ptn@gmail.com)
 
-## Some personal projects
-- [More recent and larger scale sleep data from AutoSleep](https://github.com/ianian-dot/AutoSleepData)
-- [Investigating my own sleep data](https://github.com/ianian-dot/personal-sleep-data)
-- [Scraping and analysing A24 movies from RT](https://github.com/ianian-dot/scraping-and-analysing-A24-movies/)
-- [FPL Data Analysis and Insights](https://www.kaggle.com/code/ianpetrustan/football-fpl-project-analysis-and-visualisations)
-- [FPL Data Predictions](https://www.kaggle.com/code/ianpetrustan/fpl-points-predictions-h2o-models?scriptVersionId=158303961)
-- [NLP with traditional ML methods](https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods)
-- [NLP with neural networks: 20 upvotes, 45 copy-and-edits](https://www.kaggle.com/code/ianpetrustan/predicting-fake-news-via-nlp-basic-nn-rnn-lstm)
-- [NLP via finetuning pretrained models](https://www.kaggle.com/code/ianpetrustan/analysis-clean-fine-tune-roberta-model)
-- [Analysing and predicting song preferences on Spotipy](https://github.com/ianian-dot/spotify-spotipy-data-science)
+---
 
-## Other projects
-- [Mouse Mover - Stay Awake](https://github.com/ianian-dot/Stay-Awake-2/tree/master)
-- [More Ways to Stay Awake](https://github.com/ianian-dot/MoreWaysToStayAwake/)
+# Skills
 
-## Some projects at 
-[![Kaggle (153 forks](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ianpetrustan/code)
-[<img align="left" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/jojorabbit1)
+### Languages & Analytics
 
-### Kaggle (153+ forks)
-- [Linear regression (ridge, lasso) to model GDP using Countries of the World Dataset](https://www.kaggle.com/code/ianpetrustan/modelling-gdp-via-regression-methods#Model-1:-Full-linear-model-(un-regularised))
-- [Breast Cancer classification (logistic, support vector methods)](https://www.kaggle.com/code/ianpetrustan/analysis-and-classification-on-breast-cancer-data)
-- [Time series analysis on temperatures (SARIMA)](https://www.kaggle.com/code/ianpetrustan/temperature-time-series-sarima-arima-arch)
+* Python
+* R
+* SQL
+* Pandas
+* Scikit-Learn
+* TensorFlow
+* PySpark
 
-### RPubs 
-- [Bradley Terry and Bayesian Modelling on EPL data](https://rpubs.com/jojorabbit1/1229766)
-- [Exploring the Poisson Distribution](https://rpubs.com/jojorabbit1/1195564)
+### Data & BI
 
+* Snowflake
+* Power BI
+* Tableau
+* PostgreSQL
 
+### Tools
 
-<!---
-ianian-dot/ianian-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* VS Code
+* RStudio
+* Git & GitHub
+
+---
+
+# Featured Projects
+
+## 📈 Market Lens
+
+Interactive market intelligence dashboard for exploring financial markets and economic indicators.
+
+**Highlights**
+
+* Interactive visualisations
+* Automated data retrieval and processing
+* Market and macroeconomic analysis
+* Dashboard deployment
+
+**Tech:** Python, Streamlit, APIs, Pandas
+
+🔗 Repository: https://github.com/ianian-dot/market-lens
+
+---
+
+## 🧪 Training Lab
+
+Interactive learning platform containing practical data science, analytics, statistics, SQL, and machine learning exercises.
+
+**Highlights**
+
+* Hands-on analytics challenges
+* Data science interview preparation
+* Interactive Streamlit application
+* Practical coding exercises
+
+**Tech:** Python, SQL, Streamlit, Pandas, Scikit-Learn
+
+🔗 Repository: https://github.com/ianian-dot/training-lab
+
+🌐 Live Application: https://ianian-dot-training-lab-app-yl6nrp.streamlit.app/
+
+---
+
+## 🏥 End-to-End MIMIC III Healthcare Analytics
+
+Healthcare data engineering and modelling project using the MIMIC III critical care database.
+
+**Highlights**
+
+* ETL pipeline construction
+* Data cleaning and feature engineering
+* Healthcare analytics workflows
+* Predictive modelling
+
+🔗 https://github.com/ianian-dot/mimic-3-etl
+
+---
+
+## 🌍 Cost of Living Data Engineering Project
+
+End-to-end data engineering project analysing global cost-of-living trends.
+
+**Highlights**
+
+* Data ingestion
+* ETL pipelines
+* Data quality validation
+* Analytics-ready datasets
+
+🔗 https://github.com/ianian-dot/cost-of-living-data-project
+
+---
+
+# Machine Learning & Forecasting
+
+### Football Yellow Card Prediction (MSc Dissertation)
+
+Predictive modelling of yellow cards in football using statistical and machine learning methods.
+
+🔗 https://github.com/ianian-dot/MSc-Data-Science-Football-Project
+
+### Fantasy Premier League Prediction Models
+
+Player performance modelling and prediction.
+
+🔗 https://www.kaggle.com/code/ianpetrustan/fpl-points-predictions-h2o-models
+
+### Spotify Music Preference Analytics
+
+Analysing and predicting song preferences using Spotify data.
+
+🔗 https://github.com/ianian-dot/spotify-spotipy-data-science
+
+---
+
+# NLP & Information Retrieval
+
+### Information Retrieval & Data Mining
+
+Search ranking and retrieval techniques.
+
+🔗 https://github.com/ianian-dot/Information-Retrieval-
+
+### Fake News Classification
+
+Traditional machine learning approaches for NLP classification.
+
+🔗 https://www.kaggle.com/code/ianpetrustan/nlp-fake-news-classification-many-methods
+
+### Fine-Tuning RoBERTa
+
+Transfer learning and transformer-based NLP.
+
+🔗 https://www.kaggle.com/code/ianpetrustan/analysis-clean-fine-tune-roberta-model
+
+---
+
+# Personal Analytics
+
+### AutoSleep Analytics
+
+Large-scale personal sleep analysis project using AutoSleep data.
+
+🔗 https://github.com/ianian-dot/AutoSleepData
+
+### Sleep Data Exploration
+
+Analysing personal sleep patterns and behaviours.
+
+🔗 https://github.com/ianian-dot/personal-sleep-data
+
+### A24 Movie Analytics
+
+Web scraping and analysis of A24 films and Rotten Tomatoes ratings.
+
+🔗 https://github.com/ianian-dot/scraping-and-analysing-A24-movies/
+
+---
+
+# Research
+
+### Bradley-Terry & Bayesian Modelling for EPL
+
+🔗 https://rpubs.com/jojorabbit1/1229766
+
+### Experimental Design & Running Performance
+
+🔗 https://github.com/ianian-dot/Running-effects-Music-and-Morning
+
+---
+
+### Kaggle
+
+🔗 https://www.kaggle.com/ianpetrustan/code
+
+Selected projects include:
+
+* GDP Prediction using Linear Models
+* Breast Cancer Classification
+* Time Series Forecasting with SARIMA
+* NLP Classification and Deep Learning Models
